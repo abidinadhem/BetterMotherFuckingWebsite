@@ -9,3 +9,12 @@ ul {
     margin-left: 40px;
     text-align: left;
 }
+
+p {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1,h2,h3,h4,h5,h6 {
+color: green;
+font-family: 'comic sans';
+}
